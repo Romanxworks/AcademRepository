@@ -1,2 +1,2 @@
-# AcademRepositori
+# AcademRepository
 FullStack
